@@ -1,0 +1,6 @@
+/home/username/Downloads
+/home/username/Pictures
+/home/username/Notes
+/home/username/Code
+/home/username/.local/share/password-store
+/home/username/.gnupg
